@@ -1,0 +1,8 @@
+***Roman Arithmetic*** 
+Allowed Operations [1->addition, 2->subtraction, 3->multiplication, 4->division]
+RULE
+1. Numeral must be in standard representation[e.g.,following subtractive are allowed IV & IX , XL & XC, CD & CM ]
+2. Following subtractive are not allowed [IL, IC, IM, XD, XM, LC, LD, LM] 
+3. Limit[latter's limit=[MDCLXVI], Max Roman numeral=MMMCMXCIX &  Min Roman numeral=I]
+INPUT Format
+numeral1 numeral2 operation [e.g., XL X 1] 
